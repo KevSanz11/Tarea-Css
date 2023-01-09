@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Lobster&family=Press+Start+2P&display=swap');
+@media screen and (max-width: 480px) {
+  .text {
+    font-size: 16px;
+  }
+}
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+}
+.sub{
+    font-family: 'Press Start 2P', cursive;
+}
+h1 {
+    line-height: 2;
+    color:#66bfbf;
+    font-size: 5.625rem; 
+    font-family: 'Cedarville Cursive', cursive;
+   margin: 50px auto 0 auto;
+}
+
+h2 {
+    padding-bottom: 10px;
+    color:#66bfbf;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3{
+color: #11999f;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+   
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+
+}
+
+.footer-link{
+    color: #11999E;
+    margin: 10px 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: #eaf6f6 
+}
+
+.copyright{
+   color: #eaf6f6;
+   font-size: 0.75rem;
+   padding: 20px 0; }
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    
+    
+    
+}
+
+.imagen1 {
+    width: 35%;
+    height: 35%;
+    float: left;
+    margin-right: 40px;
+}
+
+.imagen2{
+    width: 50%;
+    height: 50%;
+    float: right;
+    margin-left: 40px;
+}
+
+
+
+.top-cloud{
+    position: absolute;
+    right: 150px;
+    top: 150px;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left: 150px;
+    bottom: 400px;
+
+}
+p {
+    line-height: 2;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+   
+}
+
+
+  
+  
